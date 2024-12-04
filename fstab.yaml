@@ -2,4 +2,3 @@ mountpoints:
   /:
     url: https://content.da.live/sirugh/my-temp-repo/
     type: markup
-
