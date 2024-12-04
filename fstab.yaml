@@ -1,4 +1,4 @@
--n  
+
 mountpoints:
   /:
     url: https://content.da.live/sirugh/my-temp-repo/
